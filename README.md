@@ -12,7 +12,7 @@
 
 | Project | What it shows | Tools |
 |---|---|---|
-| [**Airbnb Market Segmentation & BI Dashboard**](https://github.com/GowriSNair/airbnb-vancouver-segmentation) | Segmented 4,705 listings into 4 market tiers and scored 277K+ guest reviews for sentiment to find what drives pricing and 5-star stays | Python, K-Means, PCA, VADER NLP, Streamlit, Power BI, Tableau |
+| [**Airbnb Market Segmentation & BI Dashboard**](https://github.com/GowriSNair/airbnb-vancouver-segmentation) | Segmented 6,131 Vancouver listings into 4 market segments and scored 346K+ guest reviews for sentiment to find what drives pricing and complaints, with an interactive dashboard | Python, K-Means, PCA, VADER NLP, Streamlit, Plotly |
 | [**Diabetes Risk Classification Pipeline**](https://github.com/GowriSNair/healthcare-classification-pipeline) | Cleaned and tested 608K health records, compared 4 classifiers and chose the one that misses the fewest at-risk patients (recall 0.86), deployed as a Gradio app | Python, Scikit-learn, SciPy, Gradio |
 | [**NYC Taxi Fare & Trip Prediction**](https://github.com/GowriSNair/NYC---Taxi---Capstone) | Group capstone on 383K taxi trips, where I led data cleaning and result validation: demand patterns, fare prediction (R² 0.99) and trip-distance prediction with an ANN, plus a Tableau dashboard | Python, Scikit-learn, Keras, Tableau |
 
